@@ -1,5 +1,6 @@
 public class operators {
     public static void main(String[] args) {
+      //arithmetic operator
       int a=1;
         int b=2;
         System.out.println(a+b);
